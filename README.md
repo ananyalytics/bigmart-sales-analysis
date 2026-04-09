@@ -9,8 +9,7 @@ bigmart-sales-analysis/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── Train.csv
-│   │   └── Test.csv
+│   │   └── Train.csv
 │   │
 │   ├── cleaned/
 │   │   └── bigmart_cleaned.csv
