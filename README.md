@@ -15,9 +15,11 @@ bigmart-sales-analysis/
 │   │   └── bigmart_cleaned.csv
 │   │
 │   └── processed/
-│       ├── sales_by_outlet.csv
+│       ├── multi_analysis.csv
 │       ├── sales_by_category.csv
-│       └── yearly_sales.csv
+│       ├── sales_by_fat.csv
+│       ├── sales_by_location.csv
+│       └── sales_by_outlet.csv
 │
 ├── scripts/
 │   ├── 01_data_loading.R
