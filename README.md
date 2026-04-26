@@ -59,9 +59,11 @@ How can BigMart optimize product strategy and outlet performance to increase ove
 
 ## 📊 Sample Visualizations
 
-![Sales Distribution](visualizations/sales_distribution.png)
-![Outlet Sales](visualizations/outlet_sales.png)
-![Category Sales](visualizations/category_sales.png)
+![Sales Distribution](visualizations/01_sales_distribution.png)
+
+![Visibility vs Sales](visualizations/03_visibility_vs_sales.png)
+
+![Category Sales](visualizations/07_sales_by_category.png)
 
 ---
 
