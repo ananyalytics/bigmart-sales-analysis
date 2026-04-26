@@ -84,32 +84,29 @@ bigmart-sales-analysis/
 │       ├── sales_by_location.csv
 │       └── sales_by_outlet.csv
 │
-├── scripts/
-│   ├── 01_data_loading.R
-│   ├── 02_data_cleaning.R
-│   ├── 03_eda.R
-│   ├── 04_visualization.R
-│   ├── 05_statistical_analysis.R
-│   └── 06_modeling_optional.R
-│
-├── visualizations/
-│   ├── sales_distribution.png
-│   ├── outlet_sales.png
-│   ├── category_sales.png
-│   └── correlation_heatmap.png
-│
 ├── report/
 │   ├── bigmart_analysis.Rmd
 │   └── bigmart_analysis.html
 │
-├── docs/
-│   ├── workflow.md
-│   ├── data_dictionary.md
-│   ├── methodology.md
-│   └── project_summary.md
+├── scripts/
+│   ├── 01_data_loading.R
+│   ├── 02_data_cleaning.R
+│   ├── 03_eda.R
+│   └── 04_visualization.R
 │
+├── visualizations/
+│   ├── 01_sales_distribution.png
+│   ├── 02_sales_vs_mrp.png
+│   ├── 03_visibility_vs_sales.png
+│   ├── 04_outlet_age_vs_outlet_sales.png
+│   ├── 05_sales_by_outlet_type.png
+│   ├── 06_total_sales_by_location_tier.png
+│   ├── 07_sales_by_category.png
+│   └── 08_sales_by_fat_content.png
+│
+├── .gitattributes
+├── LICENSE
 ├── README.md
-├── .gitignore
 └── bigmart-sales-analysis.Rproj
 ```
 
