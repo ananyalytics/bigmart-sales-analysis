@@ -116,7 +116,7 @@ bigmart-sales-analysis/
 
 ## 📄 Full Report
 
-👉 [View Complete Analysis](report/bigmart_analysis.html)
+👉 [View Complete Analysis](https://htmlpreview.github.io/?https://github.com/ananyalytics/bigmart-sales-analysis/blob/main/report/bigmart_analysis.html)
 
 ---
 
